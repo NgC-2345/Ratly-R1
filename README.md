@@ -1,4 +1,4 @@
-# Ratly-R1
+# Batly-R1
 Batly robot operates on system Ubuntu 18.04 - ROS Melodic and works together with OKDO nano c100 
 
 # Data Information
